@@ -16,4 +16,4 @@ if __name__ == "__main__":
                 print("Отгадано правильно! Спасибо за игру!")
                 wanna_play = True if input(
                     "Вы хотите играть дальше? (Да/нет)?").lower() == "да" else False
-                break  # Конец
+                break
